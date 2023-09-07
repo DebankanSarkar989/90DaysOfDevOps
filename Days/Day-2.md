@@ -14,7 +14,7 @@ DevOps process builds upon the cross-functional approach used in Agile software 
 
 ## Role of a DevOps Engineer 
 
-The life of a DevOps engineer is dynamic and multifaceted. They play a crucial role in bridging the gap between development and operations, aiming to streamline the software delivery process, enhance collaboration, and ensure the reliability of systems. Here's an overview of what DevOps engineers do and how they solve daily problems:
+A DevOps engineer play a crucial role in bridging the gap between development and operations, aiming to streamline the software delivery process, enhance collaboration, and ensure the reliability of systems. Here's an overview of what DevOps engineers do and how they solve daily problems:
 
 - #### Collaboration and Communication : 
      DevOps engineers work closely with development, testing, and operations teams to establish efficient communication channels. They facilitate cross-functional collaboration, ensuring that everyone understands the goals and requirements of the project.
