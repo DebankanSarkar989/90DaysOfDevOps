@@ -1,10 +1,10 @@
-DevOps: An Introductory Guide
+###DevOps: An Introductory Guide
 
-What is DevOps?
+##What is DevOps?
 
 The word DevOps is derived from the two words “Development (dev)” and “Operations (ops)”. It is a combined development and operation to increase the speed, security and efficiency of the software development cycle for businesses to gain a competitive advantage against other business rivals.
 
-The Big Problem Solved
+##The Big Problem Solved
 
 Software development consists of two different departments the “Development Team ” which develops the plan designs and builds the product from scratch and the “Operation Team” which tests and implements the product that is developed.
 
