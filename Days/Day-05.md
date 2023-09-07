@@ -43,6 +43,7 @@ Resources I came across while learning  the lifecycle model .
 
 - <a href="https://www.youtube.com/watch?v=3BGxFNQ-KnI">DevOps Life Cycle Explained</a>
 
-- <a href="https://www.youtube.com/watch?v=_Gpe1Zn-1fE&t=49s">  </a>
+- <a href="javatpoint.com/devops-lifecycle">DevOps Lifecycle | Javapoint</a>
 
-For Day 5 we learnt DevOps Lifecycle (Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >).In Day 6 we will see how DevOps is used in the real world by the multinational companies and big industries .  Join me for <a href="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Days/Day-6.md">Day 6</a> to continue the journey together.
+For Day 5 we learnt DevOps Lifecycle (Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >).<br>
+In Day 6 we will see how DevOps is used in the real world by the multinational companies and big industries .  Join me for <a href="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Days/Day-06.md">Day 6</a> to continue the journey together.
