@@ -83,6 +83,6 @@ While I was working on DevOps and how to learn it from scratch I came across som
 
 - <a href="https://www.youtube.com/watch?v=7l_n97Mt0ko">DevOps roadmap 2022 | Success Roadmap 2022</a>
 
-For Day 1 we created a roadmap and how to embark on the DevOps jouney .In Day 2 we will learn what is DevOps and how it is changing the industry .  Join me for <a href="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Days/Day-2.md">Day 2</a> to continue the journey together.
+For Day 1 we created a roadmap and how to embark on the DevOps jouney .In Day 2 we will learn what is DevOps and how it is changing the industry .  Join me for <a href="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Days/Day-02.md">Day 2</a> to continue the journey together.
 
 

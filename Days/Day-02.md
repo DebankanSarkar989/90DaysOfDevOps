@@ -77,4 +77,4 @@ Other Resources I came across while learning
 
 - <a href="https://www.youtube.com/watch?v=_Gpe1Zn-1fE&t=49s"> What is DevOps? Easy way </a>
 
-For Day 2 we learnt what is DevOps , the roles and responsibilities of a DevOps Engineer .In Day 3 we will be learn about the DevOps lifecycle .  Join me for <a href="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Days/Day-3.md">Day 3</a> to continue the journey together.
+For Day 2 we learnt what is DevOps , the roles and responsibilities of a DevOps Engineer .In Day 3 we will be learn about the DevOps lifecycle .  Join me for <a href="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Days/Day-03.md">Day 3</a> to continue the journey together.
