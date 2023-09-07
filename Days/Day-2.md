@@ -67,7 +67,7 @@ While we often talk about servers, the reality is that modern applications are o
 
 I wrote a blog on my second day in learning DevOps  introducing What DevOps is  and highlighting its importance in today's tech landscape . 
 
-My Blog link : <a href="https://medium.com/@debankansarkar/devops-a-comprehensive-introduction-and-guide-e007901cff6b"> DevOps : An Introduction and Guide </a>
+My Blog link : <a href="https://medium.com/@debankansarkar/devops-a-comprehensive-introduction-and-guide-e007901cff6b"> DevOps : A Comprehensive Introduction and Guide </a>
 
 Other Resources I came across while learning 
 
