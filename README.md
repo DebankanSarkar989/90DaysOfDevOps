@@ -1,5 +1,5 @@
 # 90DaysOfDevOps
-<img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/90-Days-of-Devops.png" width="45%" height="45%" align="center" >
+<img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/90-Days-of-Devops.png"  align="center" >
 
 ![Downloads](https://img.shields.io/github/downloads/DebankanSarkar989/90DaysOfDevOps/total) 
 ![Contributors](https://img.shields.io/github/contributors/DebankanSarkar989/90DaysOfDevOps?color=dark-green) ![Forks](https://img.shields.io/github/forks/DebankanSarkar989/90DaysOfDevOps?style=social) 
