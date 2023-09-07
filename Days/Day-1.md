@@ -22,7 +22,9 @@ Share your journey and resources so we can learn in public and help each other.
 
 ## DevOps Roadmap 
 
-While I was researching I crafted a customized DevOps roadmap. This roadmap is a reflection of my individual goals and experiences, tailored to help me acquire the essential skills and knowledge necessary to excel in the field of DevOps : <a href="https://excalidraw.com/#json=6o5K1OHtnL-tR1zqazW5i,JK_VDDWCO3Zd_OeQjxqnRQ">| DevOps roadmap 2023 |</a>
+While I was researching I crafted a customized DevOps roadmap. This roadmap is a reflection of my individual goals 
+and experiences, tailored to help me acquire the essential skills and knowledge necessary to excel 
+in the field of DevOps :<br><a href="https://excalidraw.com/#json=6o5K1OHtnL-tR1zqazW5i,JK_VDDWCO3Zd_OeQjxqnRQ">| DevOps roadmap 2023 |</a>
 
 ## Foundation Level: Understanding the Basics
 
