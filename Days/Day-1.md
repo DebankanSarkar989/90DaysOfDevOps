@@ -24,7 +24,7 @@ Share your journey and resources so we can learn in public and help each other.
 
 While I was researching I crafted a customized DevOps roadmap. This roadmap is a reflection of my individual goals 
 and experiences, tailored to help me acquire the essential skills and knowledge necessary to excel 
-in the field of DevOps :<br><a href="https://excalidraw.com/#json=6o5K1OHtnL-tR1zqazW5i,JK_VDDWCO3Zd_OeQjxqnRQ">| DevOps roadmap 2023 |</a>
+in the field of DevOps .<br><a href="https://excalidraw.com/#json=6o5K1OHtnL-tR1zqazW5i,JK_VDDWCO3Zd_OeQjxqnRQ">| DevOps roadmap 2023 |</a>
 
 ## Foundation Level: Understanding the Basics
 
@@ -83,6 +83,6 @@ While I was working on DevOps and how to learn it from scratch I came across som
 
 - <a href="https://www.youtube.com/watch?v=7l_n97Mt0ko">DevOps roadmap 2022 | Success Roadmap 2022</a>
 
-For Day 1 we created a roadmap and how to embark on the DevOps jouney .In Day 2 we will learn what is DevOps and how it is changing the industry .  Join me for <a href="">Day 2</a> to continue the journey together.
+For Day 1 we created a roadmap and how to embark on the DevOps jouney .In Day 2 we will learn what is DevOps and how it is changing the industry .  Join me for <a href="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Days/Day-2.md">Day 2</a> to continue the journey together.
 
 
