@@ -14,22 +14,22 @@ As I explored in my previous days of learning DevOps , I would summarize what is
 
 DevOps is concerned about the philosophy of software development. Agile is a methadology which focuses on improving the quality of the product and its efficiency . These isnt any framework when it comes to DevOps . While implementing a project we need to focus on the tools that are needed to fulfil the specified requirements whereas in Agile its more based on the frameworks like SCRUM , Kanban ,Crystal , LEAN . 
 
-#### The Team aspect 
+### The Team aspect 
 In Agile the work is dividen into multiple teams each having their own unique skillset to solve the project . Well there is a problem . If one of the team starts facing an issue with the current task they can say the others teams arent efficient and its a problem of other teams that they cant collaborate effectively . 
 Whereas in DevOps , all the members of are equally trained on the same skillset . Does it make a difference ? Indeed it does . It helps the organization focus on the goal of completing a project as a whole team rather than working on the indivitual team's goal . 
 
-#### The Time based aspect vs Automation 
+### The Time based aspect vs Automation 
 DevOps is more about automating the whole process and delivering the product without failure whereas if we look into Agile its more of a time based goal submission process . Its focused more on a feedback system it needs to provide to the organization after delivering the product . 
 
-#### Evaluation Process
+### Evaluation Process
 The DevOps team evaluate the whole process and provide a proper feedback based on the requirements whereas in Agile the feedback process is provided by the customers .  There isnt any customer feedback in DevOps . The team fixes the error within themselves works on the scope of improving the product and delivering a better finished product to their customers . 
 
-#### Tools 
+### Tools 
 
 DevOps : Kubernetes , Docker , Git , Puppet , Ansible ,Jenkins <br>
 Agile  : JIRA , Agile Bench , Active Collab 
 
-#### The End Goal for Agile and DevOps 
+### The End Goal for Agile and DevOps 
 
 Devops is focused on minimizing the gap between the development teams and the operation team ensuring there is minimal latency in delivering the product and increased efficiency . 
 Agile is focused on minimizing the gap between a customer's requirement and the developer's end product after testing.
