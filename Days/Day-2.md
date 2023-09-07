@@ -12,7 +12,7 @@ What if these two teams work in collaboration with each other? There would be no
 
 DevOps process builds upon the cross-functional approach used in Agile software development. In Agile, different teams work together to create and deliver software efficiently. DevOps extends this idea by not only involving various teams but also by incorporating operations aspects (like deployment and maintenance) into the development process, aiming to streamline the entire application lifecycle for faster and more reliable releases.
 
-## Life of a DevOps Engineer 
+## Role of a DevOps Engineer 
 
 The life of a DevOps engineer is dynamic and multifaceted. They play a crucial role in bridging the gap between development and operations, aiming to streamline the software delivery process, enhance collaboration, and ensure the reliability of systems. Here's an overview of what DevOps engineers do and how they solve daily problems:
 
