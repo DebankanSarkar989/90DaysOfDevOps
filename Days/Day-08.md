@@ -71,7 +71,7 @@ Now if we want to run this same program in other Window machine. We can do that 
 ```
 go build main.go
 ```
-<img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-10.PNG"  align="center">
+<img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-9.PNG"  align="center">
 
 
 
