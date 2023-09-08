@@ -73,6 +73,18 @@ go build main.go
 ```
 <img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-9.PNG"  align="center">
 
+## Additional Resources 
+
+- <a href="https://www.youtube.com/watch?v=yyUHQIec83I">Golang Tutorial for Beginners | Full Go Course </a>
+
+- <a href="https://www.w3schools.com/go/">Go Tutorial</a>
+
+- <a href="https://www.youtube.com/watch?v=3lazW_dSXKM"> Learn Golang in 10 minutes! </a> 
+
+<br>
+
+Join me for <a href="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Days/Day-09.md">Day 9</a> to continue the journey together.
+
 
 
 
