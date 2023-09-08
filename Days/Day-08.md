@@ -2,7 +2,7 @@
 
 Today we will deep dive into how to set up our GO enviroment in the local system . Before we head onto learning the basic of Go lang let us first walk through the steps to get Go installed in our local system . 
 
-Lets install the Go lang from the <a href="https://go.dev/dl/ " > link here and download the installer based on the operating system you are working on . I will be working on the Windows system in this 90 days. 
+Lets install the Go lang from the <a href="https://go.dev/dl/ " > link here </a> and download the installer based on the operating system you are working on . I will be working on the Windows system in this 90 days. 
 
 <img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-1.PNG"  align="center">
 
