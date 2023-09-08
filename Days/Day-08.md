@@ -29,16 +29,52 @@ GOPATH = C:\Users\Debankan\go
 ```
 
 <img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-4.PNG"  align="center">
-If we try to navigate in the new directory we would get a error message like this 
+If we try to navigate in the new directory we would get a error message like this .
+This is because the directory isnt present in the user
 <img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-5.PNG"  align="center">
 
 Our next step would be creating a directory go and subfolders bin,pkg,src 
 ```
+cd C:\Users\(YourUser)
 mkdir go
 cd go
 mkdir bin,pkg,src 
-
 ```
+Install VS Code from <a href="https://code.visualstudio.com/">here</a>. Set the defaults while installing . 
+
+<img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-6.PNG"  align="center">
+Head over to the folder we recently created and right click to open with code 
+<img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-7.PNG"  align="center">
+
+In VS code on the left side make a new file in the src folder make a file name "main.go"
+
+ As soon as you hit enter on the main.go you will be asked if you want to install the Go extension and also packages you can also check that empty pkg file that we made a few steps back and notice that we should have some new packages in there now?
+
+ <img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-8.PNG"  align="center">
+
+Lets write the basic "Hello program" for in our main.go file .
+
+```Go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello #90DaysOfDevOps")
+}
+```
+Execute the following commands in powershell 
+```
+go run main.go
+```
+Now if we want to run this same program in other Window machine. We can do that by building our binary file using the command 
+```
+go build main.go
+```
+<img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-10.PNG"  align="center">
+
+
+
 
 
 
