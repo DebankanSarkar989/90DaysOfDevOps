@@ -14,8 +14,14 @@ Run the Windows powershell/ terminal and check if Go is installed properly .
 
 ```
 go version
-
 ```
 <img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-3.PNG"  align="center">
+
+![alt text]
+
+<img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-4.PNG"  align="center">
+
+<img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-5.PNG"  align="center">
+
 
 
