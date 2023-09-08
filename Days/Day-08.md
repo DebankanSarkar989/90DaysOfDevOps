@@ -17,11 +17,28 @@ go version
 ```
 <img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-3.PNG"  align="center">
 
-![alt text]
+In order to check the enviroment for Go . 
+Make sure if the enviroment path is set and configured correctly . Copy paste the following code in the Powershell . 
+```
+go env
+```
+There would be a portion of the output where the Path set will be defined . If its not showing retry the steps again and check the process .  
+
+```shell
+GOPATH = C:\Users\Debankan\go
+```
 
 <img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-4.PNG"  align="center">
-
+If we try to navigate in the new directory we would get a error message like this 
 <img src="https://github.com/DebankanSarkar989/90DaysOfDevOps/blob/main/Picture/GO/Install/Go-5.PNG"  align="center">
+
+Our next step would be creating a directory go and subfolders bin,pkg,src 
+```
+mkdir go
+cd go
+mkdir bin,pkg,src 
+
+```
 
 
 
